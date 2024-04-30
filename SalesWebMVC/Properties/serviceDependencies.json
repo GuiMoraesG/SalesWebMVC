@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "mssql1": {
-      "type": "mssql",
+    "mysql": {
+      "type": "mysql",
       "connectionId": "ConnectionStrings:SalesWebMVCContext"
     }
   }
