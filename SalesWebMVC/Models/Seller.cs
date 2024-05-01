@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-
-namespace SalesWebMVC.Models
+﻿namespace SalesWebMVC.Models
 {
     public class Seller
     {
