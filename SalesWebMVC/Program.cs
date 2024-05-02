@@ -20,6 +20,7 @@ var localizationOptions = new RequestLocalizationOptions
 
 builder.Services.AddScoped<SellerService>();
 builder.Services.AddScoped<DepartmentService>();
+builder.Services.AddScoped<SalesrecordService>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
